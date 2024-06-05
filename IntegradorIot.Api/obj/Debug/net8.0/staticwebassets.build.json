@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q3uK/zdBgpnryIpVKM29oFqHCasHB5CN1pbT6jJuIPM=",
+  "Source": "IntegradorIot.Api",
+  "BasePath": "_content/IntegradorIot.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

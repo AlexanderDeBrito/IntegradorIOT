@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegratorIot.Domain", ".\IntegratorIot.Domain\IntegratorIot.Domain.csproj", "{ABF87549-39A1-41A4-877A-3388A6050E29}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegrationIot.Infra.Data", ".\IntegrationIot.Infra.Data\IntegrationIot.Infra.Data.csproj", "{D8F8B06B-23B7-4E3E-AB1C-FFD10890ED25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegradorIot.Infra.Ioc", ".\IntegradorIot.Infra.Ioc\IntegradorIot.Infra.Ioc.csproj", "{75FDF78D-8733-42C8-9FF9-E9784CF0859E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegradorIoc.Application", ".\IntegradorIoc.Application\IntegradorIoc.Application.csproj", "{537435AE-7320-4683-8C6F-514E0806EE42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegradorIot.Api", "IntegradorIot.Api\IntegradorIot.Api.csproj", "{17FE21C3-8208-496C-B9A5-D40412F213C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF87549-39A1-41A4-877A-3388A6050E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF87549-39A1-41A4-877A-3388A6050E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF87549-39A1-41A4-877A-3388A6050E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF87549-39A1-41A4-877A-3388A6050E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F8B06B-23B7-4E3E-AB1C-FFD10890ED25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F8B06B-23B7-4E3E-AB1C-FFD10890ED25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F8B06B-23B7-4E3E-AB1C-FFD10890ED25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F8B06B-23B7-4E3E-AB1C-FFD10890ED25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FDF78D-8733-42C8-9FF9-E9784CF0859E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FDF78D-8733-42C8-9FF9-E9784CF0859E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FDF78D-8733-42C8-9FF9-E9784CF0859E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FDF78D-8733-42C8-9FF9-E9784CF0859E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537435AE-7320-4683-8C6F-514E0806EE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537435AE-7320-4683-8C6F-514E0806EE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537435AE-7320-4683-8C6F-514E0806EE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537435AE-7320-4683-8C6F-514E0806EE42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FE21C3-8208-496C-B9A5-D40412F213C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FE21C3-8208-496C-B9A5-D40412F213C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FE21C3-8208-496C-B9A5-D40412F213C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FE21C3-8208-496C-B9A5-D40412F213C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17A0A5DF-1452-4558-8C37-FD459C570264}
+	EndGlobalSection
+EndGlobal
