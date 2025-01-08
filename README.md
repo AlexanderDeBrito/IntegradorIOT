@@ -1,6 +1,6 @@
 # Desafio Fullstack - Plataforma de Monitoramento IoT
 
-Este projeto consiste em uma aplicação web Fullstack desenvolvida como parte de um desafio técnico para integrar e monitorar dispositivos IoT de uma plataforma colaborativa, facilitando a tomada de decisões no setor agrário.
+Este projeto consiste em uma aplicação web Fullstack desenvolvida para integrar e monitorar dispositivos IoT de uma plataforma colaborativa, facilitando a tomada de decisões no setor agrário.
 
 ## 📋 Descrição do Projeto
 
